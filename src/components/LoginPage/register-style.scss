@@ -1,0 +1,76 @@
+.form-page-register-layout{
+    padding-top: 10px;
+    width: 77%;
+    height:auto ;
+    background: #fff;
+    border-radius: 20px;
+    padding: 1em;
+    margin:10%;
+}
+.photo-input {
+    height: 30px;
+    width: 250px;
+    padding-left: 5%;
+}
+.inline-class{
+    display: inline-block;
+    margin-left: 6%;
+    padding-left: 2%;
+    vertical-align: top;
+    width: 20%;
+}
+.radio-align{
+    padding-left: 5%;
+}
+.name {
+    font-family: cursive;
+    font-weight: bold;
+}
+.form-register-content{
+    padding-top: 30px
+}
+.react-datepicker__input-container{
+padding-left: 5%;
+}
+.date-picker {
+    height: 20px;
+    width: 210px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.radio-button {
+    height: 20px;
+    width: 20px;
+    }
+.form-page-register-header {
+    background-color: #4be7b6;
+}
+.form-page-register-heading{
+        display: block;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 39px;
+        color: #333333;
+        line-height: 1.2;
+        text-align: center;
+}
+.placeholder-name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    font-weight:normal;
+    color: #acacac;
+    margin-left:10%;
+
+}
+
+.form-two-field-input{
+width:90%;
+margin-left: 5%;
+position: relative;
+padding: 0px 7px 0 43px;
+color: #000000;
+background-color: #e3e4e6;
+border: none;
+outline: 0;
+letter-spacing: 0.05em;
+height: 35px;
+border-radius: 5px;
+}
